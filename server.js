@@ -1,9 +1,10 @@
 const express = require('express')
 const app = express()
+const time =  Date.now();
 
 let json_data = [{
-  "key": "3",
-  "name": "王二",
+  "key": `3-${time}`,
+  "name": `王二-${time}`,
   "gender": "男"
 }]
 app.get("/data", function (req, res) {
