@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a4f4c839-9f6c-4661-bbc5-862be317506f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="MIXED" />
+    <option name="SET_USER_NAME_GLOBALLY" value="false" />
+  </component>
+  <component name="ProjectId" id="1e7ODRXX95bIxEoPLxfNi84U7Jr" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.detected.package.stylelint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.path.for.package.stylelint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="node.js.selected.package.stylelint" value="" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
+  </component>
+  <component name="RunManager">
+    <configuration name="server.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/server.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.server.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a4f4c839-9f6c-4661-bbc5-862be317506f" name="Default Changelist" comment="" />
+      <created>1593669044481</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593669044481</updated>
+      <workItem from="1593669046184" duration="2682000" />
+      <workItem from="1593672419626" duration="1217000" />
+      <workItem from="1593673663878" duration="5599000" />
+    </task>
+    <task id="LOCAL-00001" summary="new project">
+      <created>1593681317662</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1593681317662</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="1" value="TOOL_WINDOW" />
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="new project" />
+    <option name="LAST_COMMIT_MESSAGE" value="new project" />
+    <option name="GROUP_MULTIFILE_MERGE_BY_DIRECTORY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="343" y="-641" key="#ESLint" timestamp="1593669186980">
+      <screen x="-480" y="-1080" width="1920" height="1080" />
+    </state>
+    <state x="343" y="-641" key="#ESLint/0.0.1440.900/-480.-1080.1920.1080@-480.-1080.1920.1080" timestamp="1593669186980" />
+    <state x="212" y="-731" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1593680980469">
+      <screen x="-480" y="-1080" width="1920" height="1080" />
+    </state>
+    <state x="212" y="-731" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.900/-480.-1080.1920.1080@-480.-1080.1920.1080" timestamp="1593680980469" />
+    <state x="67" y="-985" key="CommitChangelistDialog2" timestamp="1593681317146">
+      <screen x="-480" y="-1080" width="1920" height="1080" />
+    </state>
+    <state x="67" y="-985" key="CommitChangelistDialog2/0.0.1440.900/-480.-1080.1920.1080@-480.-1080.1920.1080" timestamp="1593681317146" />
+    <state width="1878" height="410" key="GridCell.Tab.0.bottom" timestamp="1593674032275">
+      <screen x="-480" y="-1080" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="410" key="GridCell.Tab.0.bottom/0.0.1440.900/-480.-1080.1920.1080@-480.-1080.1920.1080" timestamp="1593674032275" />
+    <state width="1878" height="410" key="GridCell.Tab.0.center" timestamp="1593674032273">
+      <screen x="-480" y="-1080" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="410" key="GridCell.Tab.0.center/0.0.1440.900/-480.-1080.1920.1080@-480.-1080.1920.1080" timestamp="1593674032273" />
+    <state width="1878" height="410" key="GridCell.Tab.0.left" timestamp="1593674032272">
+      <screen x="-480" y="-1080" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="410" key="GridCell.Tab.0.left/0.0.1440.900/-480.-1080.1920.1080@-480.-1080.1920.1080" timestamp="1593674032272" />
+    <state width="1878" height="410" key="GridCell.Tab.0.right" timestamp="1593674032274">
+      <screen x="-480" y="-1080" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="410" key="GridCell.Tab.0.right/0.0.1440.900/-480.-1080.1920.1080@-480.-1080.1920.1080" timestamp="1593674032274" />
+    <state x="-37" y="-886" key="MergeDialog" timestamp="1593681485050">
+      <screen x="-480" y="-1080" width="1920" height="1080" />
+    </state>
+    <state x="-37" y="-886" key="MergeDialog/0.0.1440.900/-480.-1080.1920.1080@-480.-1080.1920.1080" timestamp="1593681485050" />
+    <state x="79" y="-733" width="919" height="435" key="MultipleFileMergeDialog" timestamp="1593681498627">
+      <screen x="-480" y="-1080" width="1920" height="1080" />
+    </state>
+    <state x="79" y="-733" width="919" height="435" key="MultipleFileMergeDialog/0.0.1440.900/-480.-1080.1920.1080@-480.-1080.1920.1080" timestamp="1593681498627" />
+    <state x="274" y="-813" key="RollbackChangesDialog" timestamp="1593671310119">
+      <screen x="-480" y="-1080" width="1920" height="1080" />
+    </state>
+    <state x="274" y="-813" key="RollbackChangesDialog/0.0.1440.900/-480.-1080.1920.1080@-480.-1080.1920.1080" timestamp="1593671310119" />
+    <state x="80" y="-800" key="Vcs.Push.Dialog.v2" timestamp="1593681515426">
+      <screen x="-480" y="-1080" width="1920" height="1080" />
+    </state>
+    <state x="80" y="-800" key="Vcs.Push.Dialog.v2/0.0.1440.900/-480.-1080.1920.1080@-480.-1080.1920.1080" timestamp="1593681515426" />
+    <state x="282" y="-799" key="VcsDiffUtil.ChangesDialog" timestamp="1593671610004">
+      <screen x="-480" y="-1080" width="1920" height="1080" />
+    </state>
+    <state x="282" y="-799" key="VcsDiffUtil.ChangesDialog/0.0.1440.900/-480.-1080.1920.1080@-480.-1080.1920.1080" timestamp="1593671610004" />
+    <state x="181" y="-785" width="598" height="490" key="find.popup" timestamp="1593671018894">
+      <screen x="-480" y="-1080" width="1920" height="1080" />
+    </state>
+    <state x="181" y="-785" width="598" height="490" key="find.popup/0.0.1440.900/-480.-1080.1920.1080@-480.-1080.1920.1080" timestamp="1593671018894" />
+    <state x="159" y="-745" key="git4idea.merge.GitPullDialog" timestamp="1593681836558">
+      <screen x="-480" y="-1080" width="1920" height="1080" />
+    </state>
+    <state x="159" y="-745" key="git4idea.merge.GitPullDialog/0.0.1440.900/-480.-1080.1920.1080@-480.-1080.1920.1080" timestamp="1593681836558" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/routes/IndexPage.js</url>
+          <line>14</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

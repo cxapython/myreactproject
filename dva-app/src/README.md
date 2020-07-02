@@ -1,14 +1,12 @@
-### 安装
+### 需要安装的有
 ```
-npm install
-```
-### 启动
-```
-npm start
+npm install dva-cli -g
+npm install antd
+npm install babel-plugin-import
 ```
 
 ### 文件夹里大致意义如下：
-- server.js 我们需要启动的服务,主要提供json数据供dva使用
+ 
 - asserts 用于存放静态资源图片视频之类的。
 - components 用于存放公共组件，比如页面头尾导航条。
 - routes 用于存放路由组件，可以通俗的理解成页面。与components的区别在于一般是非公共的并且会跟model里的数据模型联系起来。
@@ -16,5 +14,9 @@ npm start
 - services 用于存放跟后台交互的服务文件，一般都需要调用后台的接口。
 - utils 用于存放工具类库。
 
-
+### dva使用流程
+项目的开发流程一般是从设计model state开始进行抽象数据，完成component后，
+将组件和model建立关联，通过dispatch一个action，在reducer中更新数据完成数据同步处理；
+当需要从服务器获取数据时，通过Effects数据异步处理，然后调用Reducer更新全局state。
+它是一个单向的数据流动过程。
 
