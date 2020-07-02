@@ -26,7 +26,6 @@
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/myreactproject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/myreactproject.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/thriftCompiler.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
@@ -57,6 +56,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -96,7 +96,7 @@
       <updated>1593669044481</updated>
       <workItem from="1593669046184" duration="2682000" />
       <workItem from="1593672419626" duration="1217000" />
-      <workItem from="1593673663878" duration="5251000" />
+      <workItem from="1593673663878" duration="5599000" />
     </task>
     <task id="LOCAL-00001" summary="new project">
       <created>1593681317662</created>
@@ -206,6 +206,10 @@
       <screen x="-480" y="-1080" width="1920" height="1080" />
     </state>
     <state x="181" y="-785" width="598" height="490" key="find.popup/0.0.1440.900/-480.-1080.1920.1080@-480.-1080.1920.1080" timestamp="1593671018894" />
+    <state x="159" y="-745" key="git4idea.merge.GitPullDialog" timestamp="1593681836558">
+      <screen x="-480" y="-1080" width="1920" height="1080" />
+    </state>
+    <state x="159" y="-745" key="git4idea.merge.GitPullDialog/0.0.1440.900/-480.-1080.1920.1080@-480.-1080.1920.1080" timestamp="1593681836558" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
