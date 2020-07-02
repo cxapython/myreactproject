@@ -1,9 +1,8 @@
 // layout.js
 import React, { Component } from 'react'
-import { connect } from 'dva';
 import Header from '../components/header'
 
-class Layout extends Component {
+export default class Layout extends Component {
     render() {
         const { children } = this.props
         return (
@@ -14,5 +13,3 @@ class Layout extends Component {
         )
     }
 }
-
-export default Layout;

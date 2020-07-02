@@ -2,7 +2,7 @@ import {Menu} from "antd";
 import {Link} from "dva/router"
 import {Component} from "react";
 
-class Header extends Component{
+export default class Header extends Component{
   render() {
     return(
             <Menu
@@ -25,4 +25,3 @@ class Header extends Component{
   }
 
 }
-export default Header
