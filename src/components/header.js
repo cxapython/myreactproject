@@ -12,7 +12,7 @@ class Header extends Component{
               style={{ lineHeight: '64px' }}
             >
               <Menu.Item key="1">
-                    <Link to="/">Home</Link>
+                    <Link to="/">Index</Link>
               </Menu.Item>
               <Menu.Item key="2">
                     <Link to="/aaa">AAA</Link>

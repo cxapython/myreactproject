@@ -1,4 +1,6 @@
+// layout.js
 import React, { Component } from 'react'
+import { connect } from 'dva';
 import Header from '../components/header'
 
 class Layout extends Component {

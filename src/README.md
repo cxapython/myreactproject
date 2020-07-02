@@ -14,9 +14,4 @@ npm install babel-plugin-import
 - services 用于存放跟后台交互的服务文件，一般都需要调用后台的接口。
 - utils 用于存放工具类库。
 
-### dva使用流程
-项目的开发流程一般是从设计model state开始进行抽象数据，完成component后，
-将组件和model建立关联，通过dispatch一个action，在reducer中更新数据完成数据同步处理；
-当需要从服务器获取数据时，通过Effects数据异步处理，然后调用Reducer更新全局state。
-它是一个单向的数据流动过程。
 
